@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39833fc3-35cf-40f3-9ccb-6c1da10df4b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="237" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/software/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/software/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VED2IYzF7WIL0eQECZwldyd029" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.CodePartTest">
+    <configuration name="CodePartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongodb-migration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaosicheng.mongo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaosicheng.mongo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gaosicheng.mongo.test.CodePartTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodePartTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongodb-migration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaosicheng.mongo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaosicheng.mongo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gaosicheng.mongo.test.CodePartTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoDemoTest.testSrcConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongodb-migration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaosicheng.mongo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaosicheng.mongo" />
+      <option name="MAIN_CLASS_NAME" value="com.gaosicheng.mongo.MongoDemoTest" />
+      <option name="METHOD_NAME" value="testSrcConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongodb-migration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaosicheng.mongo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaosicheng.mongo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gaosicheng.mongo.test.MongoUtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.gaosicheng.mongo.test in mongodb-migration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongodb-migration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaosicheng.mongo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaosicheng.mongo.test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CodePartTest" />
+        <item itemvalue="JUnit.com.gaosicheng.mongo.test in mongodb-migration" />
+        <item itemvalue="JUnit.CodePartTest.test" />
+        <item itemvalue="JUnit.MongoUtilTest" />
+        <item itemvalue="JUnit.MongoDemoTest.testSrcConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39833fc3-35cf-40f3-9ccb-6c1da10df4b7" name="Default Changelist" comment="" />
+      <created>1576809151287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576809151287</updated>
+      <workItem from="1576809152410" duration="16363000" />
+      <workItem from="1576918858765" duration="693000" />
+      <workItem from="1578016793248" duration="5497000" />
+      <workItem from="1578031787500" duration="376000" />
+      <workItem from="1578562897249" duration="229000" />
+      <workItem from="1578563160604" duration="311000" />
+      <workItem from="1578563528307" duration="855000" />
+      <workItem from="1578625140148" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="643" y="448" key="Github.CreateGistDialog" timestamp="1578625453645">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="643" y="448" key="Github.CreateGistDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578625453645" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1578625490422">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1578625490422" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1578625490421">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1578625490421" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1578625490420">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1578625490420" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1578625490422">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1578625490422" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1578625165938">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1578625165938" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mongodb_migration$com_gaosicheng_mongo_test_in_mongodb_migration.ic" NAME="com.gaosicheng.mongo.test in mongodb-migration Coverage Results" MODIFIED="1578031829924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.gaosicheng.mongo.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mongodb_migration$CodePartTest.ic" NAME="CodePartTest Coverage Results" MODIFIED="1578021890019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.gaosicheng.mongo.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mongodb_migration$CodePartTest_test.ic" NAME="CodePartTest.test Coverage Results" MODIFIED="1578021803631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.gaosicheng.mongo.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
